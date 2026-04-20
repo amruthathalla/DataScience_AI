@@ -1,0 +1,8 @@
+artifact_location: file:///c:/Users/Amrutha%20Thalla/FSDS/DataScience_AI/MLOps/mlruns/184777780438155574
+creation_time: 1776498253747
+experiment_id: '184777780438155574'
+last_update_time: 1776498253747
+lifecycle_stage: active
+name: deployment model
+trace_location: null
+workspace: default

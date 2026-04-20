@@ -1,0 +1,8 @@
+artifact_location: file:c:/Users/Amrutha Thalla/FSDS/DataScience_AI/MLOps/mlruns/276761068681257814
+creation_time: 1776495550206
+experiment_id: '276761068681257814'
+last_update_time: 1776495550206
+lifecycle_stage: active
+name: imbalanced classification
+trace_location: null
+workspace: default
