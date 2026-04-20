@@ -1,0 +1,10 @@
+Model,Test Accuracy (%),Saved Path
+SVM,90.0,C:/Users/Amrutha Thalla/FSDS/DataScience_AI/Machine Learning/classifications/classification project/models\SVM.pkl
+KNN,90.0,C:/Users/Amrutha Thalla/FSDS/DataScience_AI/Machine Learning/classifications/classification project/models\KNN.pkl
+Random Forest,90.0,C:/Users/Amrutha Thalla/FSDS/DataScience_AI/Machine Learning/classifications/classification project/models\Random_Forest.pkl
+ANN,90.0,C:/Users/Amrutha Thalla/FSDS/DataScience_AI/Machine Learning/classifications/classification project/models\ANN.pkl
+Gaussian NB,87.5,C:/Users/Amrutha Thalla/FSDS/DataScience_AI/Machine Learning/classifications/classification project/models\Gaussian_NB.pkl
+XGBoost,87.5,C:/Users/Amrutha Thalla/FSDS/DataScience_AI/Machine Learning/classifications/classification project/models\XGBoost.pkl
+LightGBM,87.5,C:/Users/Amrutha Thalla/FSDS/DataScience_AI/Machine Learning/classifications/classification project/models\LightGBM.pkl
+Decision Tree,86.25,C:/Users/Amrutha Thalla/FSDS/DataScience_AI/Machine Learning/classifications/classification project/models\Decision_Tree.pkl
+Logistic Regression,83.75,C:/Users/Amrutha Thalla/FSDS/DataScience_AI/Machine Learning/classifications/classification project/models\Logistic_Regression.pkl
